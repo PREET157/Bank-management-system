@@ -376,3 +376,4 @@
 [2026-11-13 13:05:02] Improve error handling in withdrawal
 [2026-04-30 17:24:38] Fix database connection issue
 [2026-04-30 18:16:29] Add input validation for forms
+[2026-04-30 20:34:15] Fix null pointer exception
