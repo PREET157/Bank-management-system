@@ -394,3 +394,4 @@
 [2026-05-07 17:27:45] Update README
 [2026-05-08 18:11:05] Refactor code structure
 [2026-05-08 16:44:33] Fix transaction bug
+[2026-05-08 22:03:51] Improve error handling in withdrawal
