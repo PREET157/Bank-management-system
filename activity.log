@@ -16,3 +16,4 @@
 [2026-05-08 11:01:50] Refactor deposit module
 [2026-05-09 22:34:41] Update README
 [2026-05-09 16:20:00] Improve security for user passwords
+[2026-05-10 20:23:44] Add account validation logic
