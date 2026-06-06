@@ -73,3 +73,4 @@
 [2026-06-05 09:29:25] Improve UI for dashboard
 [2026-06-05 13:24:36] Improve error handling in withdrawal
 [2026-06-05 20:14:31] Fix null pointer exception
+[2026-06-06 11:58:06] Fix transaction bug
