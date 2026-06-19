@@ -98,3 +98,4 @@
 [2026-06-18 15:44:46] Add interest calculation module
 [2026-06-18 16:23:22] Add loan management feature
 [2026-06-18 20:33:39] Fix minor bugs in account module
+[2026-06-19 18:26:39] Improve error handling in withdrawal
