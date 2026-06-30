@@ -498,3 +498,4 @@
 [2026-06-29 19:00:09] Refactor code structure
 [2026-06-29 21:29:24] Improve UI for dashboard
 [2026-06-29 11:55:34] Add balance inquiry feature
+[2026-06-30 21:38:08] Fix null pointer exception
