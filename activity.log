@@ -556,3 +556,4 @@
 [2026-07-26 11:13:01] Fix database connection issue
 [2026-07-27 21:35:31] Add account validation logic
 [2026-07-28 16:46:03] Fix transaction bug
+[2026-07-28 10:41:59] Add balance inquiry feature
