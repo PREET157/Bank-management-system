@@ -169,3 +169,4 @@
 [2026-07-26 16:42:40] Refactor deposit module
 [2026-07-26 15:55:47] Update transaction history view
 [2026-07-27 09:20:06] Add fund transfer functionality
+[2026-07-28 09:02:57] Fix null pointer exception
