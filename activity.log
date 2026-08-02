@@ -566,3 +566,4 @@
 [2026-08-01 12:14:55] Fix null pointer exception
 [2026-08-01 22:28:42] Add account validation logic
 [2026-08-02 22:31:04] Fix minor bugs in account module
+[2026-08-02 19:50:12] Improve error handling in withdrawal
