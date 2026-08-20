@@ -217,3 +217,4 @@
 [2026-08-18 09:14:22] Fix minor bugs in account module
 [2026-08-19 10:57:15] Improve security for user passwords
 [2026-08-20 13:02:02] Update transaction history view
+[2026-08-20 19:47:41] Improve error handling in withdrawal
