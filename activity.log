@@ -604,3 +604,4 @@
 [2026-08-21 15:12:20] Fix transaction bug
 [2026-08-22 11:28:39] Add loan management feature
 [2026-08-22 12:54:56] Improve UI for dashboard
+[2026-08-23 17:19:54] Improve error handling in withdrawal
