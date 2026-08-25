@@ -607,3 +607,4 @@
 [2026-08-23 17:19:54] Improve error handling in withdrawal
 [2026-08-24 11:26:44] Update transaction history view
 [2026-08-24 16:54:38] Add interest calculation module
+[2026-08-25 14:41:07] Add loan management feature
