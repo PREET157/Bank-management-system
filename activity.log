@@ -236,3 +236,4 @@
 [2026-08-28 17:19:11] Improve security for user passwords
 [2026-08-29 19:58:15] Add fund transfer functionality
 [2026-08-30 15:05:20] Add input validation for forms
+[2026-08-31 10:44:02] Improve error handling in withdrawal
