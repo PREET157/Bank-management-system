@@ -628,3 +628,4 @@
 [2026-09-01 15:21:57] Improve security for user passwords
 [2026-09-02 13:09:57] Update README
 [2026-09-02 17:31:22] Update transaction history view
+[2026-09-02 22:38:12] Add account validation logic
