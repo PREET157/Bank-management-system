@@ -241,3 +241,4 @@
 [2026-09-02 18:25:35] Add balance inquiry feature
 [2026-09-03 21:02:02] Add fund transfer functionality
 [2026-09-03 19:34:12] Fix minor bugs in account module
+[2026-09-04 10:33:26] Improve error handling in withdrawal
