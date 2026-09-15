@@ -655,3 +655,4 @@
 [2026-09-14 16:15:27] Update README
 [2026-09-14 11:10:50] Update transaction history view
 [2026-09-14 14:36:08] Improve UI for dashboard
+[2026-09-15 16:13:34] Fix database connection issue
