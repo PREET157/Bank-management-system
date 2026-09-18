@@ -664,3 +664,4 @@
 [2026-09-17 14:48:07] Fix login authentication issue
 [2026-09-18 11:21:01] Update README
 [2026-09-18 13:49:08] Improve error handling in withdrawal
+[2026-09-18 10:19:52] Refactor code structure
