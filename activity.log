@@ -274,3 +274,4 @@
 [2026-09-20 16:17:44] Update transaction history view
 [2026-09-21 22:52:54] Update transaction history view
 [2026-09-22 19:47:57] Improve error handling in withdrawal
+[2026-09-22 09:52:43] Fix database connection issue
