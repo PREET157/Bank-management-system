@@ -693,3 +693,4 @@
 [2026-09-30 14:20:25] Refactor code structure
 [2026-09-30 17:50:39] Refactor deposit module
 [2026-10-01 11:52:51] Update bank statement module
+[2026-10-01 22:21:37] Improve error handling in withdrawal
