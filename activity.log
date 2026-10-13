@@ -317,3 +317,4 @@
 [2026-10-12 17:06:53] Add input validation for forms
 [2026-10-12 19:46:37] Fix minor bugs in account module
 [2026-10-13 14:14:45] Fix transaction bug
+[2026-10-13 12:05:16] Fix null pointer exception
