@@ -321,3 +321,4 @@
 [2026-10-13 09:03:53] Update README
 [2026-10-14 12:09:55] Fix minor bugs in account module
 [2026-10-14 18:15:56] Add balance inquiry feature
+[2026-10-15 19:28:21] Improve error handling in withdrawal
