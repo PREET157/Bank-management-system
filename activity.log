@@ -324,3 +324,4 @@
 [2026-10-15 19:28:21] Improve error handling in withdrawal
 [2026-10-16 21:07:36] Fix transaction bug
 [2026-10-17 21:18:56] Improve error handling in withdrawal
+[2026-10-17 14:21:33] Refactor code structure
