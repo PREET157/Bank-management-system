@@ -726,3 +726,4 @@
 [2026-10-17 09:58:59] Add account validation logic
 [2026-10-17 11:40:14] Refactor code structure
 [2026-10-18 19:17:07] Improve UI for dashboard
+[2026-10-19 17:47:00] Improve error handling in withdrawal
