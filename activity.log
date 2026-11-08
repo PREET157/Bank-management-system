@@ -366,3 +366,4 @@
 [2026-11-06 09:25:53] Fix minor bugs in account module
 [2026-11-07 22:13:52] Update transaction history view
 [2026-11-08 11:36:06] Update transaction history view
+[2026-11-08 22:26:19] Fix null pointer exception
