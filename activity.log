@@ -765,3 +765,4 @@
 [2026-11-08 18:22:33] Add fund transfer functionality
 [2026-11-09 16:38:18] Fix null pointer exception
 [2026-11-10 21:39:24] Fix transaction bug
+[2026-11-10 19:40:54] Improve error handling in withdrawal
