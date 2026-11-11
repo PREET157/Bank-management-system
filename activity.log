@@ -370,3 +370,4 @@
 [2026-11-08 13:36:04] Fix transaction bug
 [2026-11-09 09:57:19] Improve UI for dashboard
 [2026-11-10 11:42:16] Fix minor bugs in account module
+[2026-11-11 22:00:28] Fix null pointer exception
