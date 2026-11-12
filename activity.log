@@ -767,3 +767,4 @@
 [2026-11-10 21:39:24] Fix transaction bug
 [2026-11-10 19:40:54] Improve error handling in withdrawal
 [2026-11-11 22:49:19] Fix minor bugs in account module
+[2026-11-12 17:57:42] Add balance inquiry feature
